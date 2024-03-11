@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rectPara/static/css/main.94c01057.css",
+    "main.js": "/rectPara/static/js/main.8d1b306e.js",
+    "static/js/453.6f6c35f6.chunk.js": "/rectPara/static/js/453.6f6c35f6.chunk.js",
+    "index.html": "/rectPara/index.html",
+    "main.94c01057.css.map": "/rectPara/static/css/main.94c01057.css.map",
+    "main.8d1b306e.js.map": "/rectPara/static/js/main.8d1b306e.js.map",
+    "453.6f6c35f6.chunk.js.map": "/rectPara/static/js/453.6f6c35f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c01057.css",
+    "static/js/main.8d1b306e.js"
+  ]
+}
